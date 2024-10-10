@@ -1,0 +1,12 @@
+{
+  "name": "jp.get-back.spinometer.spinometer-aux",
+  "version": "0.0.0",
+  "displayName": "Spinometer Aux",
+  "unity": "6000.0",
+  "keywords": [],
+  "author": {
+    "name": "GET BACK Ltd.",
+    "email": "info@get-back.jp",
+    "url": "https://www.get-back.jp"
+  }
+}
